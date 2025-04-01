@@ -1,3 +1,7 @@
 npm install dayjs
 npm install firebase
 npm install firebase-admin --save
+
+
+firebase email: keahibokeo@gmail.com
+firebase password: *******************
