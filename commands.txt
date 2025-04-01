@@ -1,7 +1,12 @@
 npm install dayjs
 npm install firebase
 npm install firebase-admin --save
+npm install ai @ai-sdk/google
+npm install @vapi-ai/web
 
 
 firebase email: keahibokeo@gmail.com
 firebase password: *******************
+https://aistudio.google.com
+https://sdk.vercel.ai/
+https://vapi.ai/
